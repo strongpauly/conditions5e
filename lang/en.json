@@ -1,0 +1,12 @@
+{
+    "EFFECT.StatusCharmed": "Charmed",
+    "EFFECT.StatusFear": "Frightened",
+    "EFFECT.StatusGrappled": "Grappled",
+    "EFFECT.Incapacitated": "Incapacitated",
+    "EFFECT.StatusPetrified": "Petrified",
+    "EFFECT.StatusExhausted1":"Exhaustion (lvl1)",
+    "EFFECT.StatusExhausted2":"Exhaustion (lvl2)",
+    "EFFECT.StatusExhausted3":"Exhaustion (lvl3)",
+    "EFFECT.StatusExhausted4":"Exhaustion (lvl4)",
+    "EFFECT.StatusExhausted5":"Exhaustion (lvl5)"
+}
