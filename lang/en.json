@@ -1,5 +1,7 @@
 {
+    "EFFECT.StatusBlessed": "Blessed",
     "EFFECT.StatusCharmed": "Charmed",
+    "EFFECT.StatusFaerieFire": "Faerie Fire",
     "EFFECT.StatusFear": "Frightened",
     "EFFECT.StatusGrappled": "Grappled",
     "EFFECT.Incapacitated": "Incapacitated",

@@ -27,7 +27,9 @@ if(typeof CONFIG.statusEffects[0] === "string") {
     "modules/conditions5e/icons/blinded.svg",
     "modules/conditions5e/icons/deafened.svg",
     "modules/conditions5e/icons/diseased.svg",
-    "modules/conditions5e/icons/exhaustion5.svg"
+    "modules/conditions5e/icons/exhaustion5.svg",
+
+    "modules/conditions5e/icons/concentrating.png"
   ];
 } else {
   CONFIG.statusEffects = [
@@ -131,11 +133,21 @@ if(typeof CONFIG.statusEffects[0] === "string") {
       label: "EFFECT.StatusExhausted5",
       icon: "modules/conditions5e/icons/exhaustion5.svg"
     },
-    // {
-    //   id: "bless",
-    //   label: "EFFECT.StatusBlessed",
-    //   icon: "icons/svg/angel.svg"
-    // },
+    {
+      id: "concentrating",
+      label: "EFFECT.StatusConcentrating",
+      icon: "modules/conditions5e/icons/concentrating.svg"
+    },
+    {
+      id: "bless",
+      label: "EFFECT.StatusBlessed",
+      icon: "modules/conditions5e/icons/spells/1/bless.png"
+    },
+    {
+      id: "faerie-fire",
+      label: "EFFECT.StatusFaerieFire",
+      icon: "modules/conditions5e/icons/spells/1/faerie-fire.png"
+    },
     // {
     //   id: "burning",
     //   label: "EFFECT.StatusBurning",
