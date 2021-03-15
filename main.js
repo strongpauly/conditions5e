@@ -156,7 +156,7 @@ const statusEffects = [
   {
     id: "protection-from-evil-and-good",
     label: "EFFECT.SpellProtectionFromEvilAndGood",
-    icon: "modules/conditions5e/icons/spells/1/protection-from-evil-and-good.png"
+    icon: "modules/conditions5e/icons/spells/1/protection-from-evil-and-good.svg"
   },
   {
     id: "sanctuary",
@@ -166,12 +166,12 @@ const statusEffects = [
   {
     id: "shield-of-faith",
     label: "EFFECT.SpellShieldOfFaith",
-    icon: "modules/conditions5e/icons/spells/1/shield-of-faith.png"
+    icon: "modules/conditions5e/icons/spells/1/shield-of-faith.svg"
   },
   {
     id: "shield",
     label: "EFFECT.SpellShield",
-    icon: "modules/conditions5e/icons/spells/1/shield.png"
+    icon: "modules/conditions5e/icons/spells/1/shield.svg"
   },
   {
     id: "tashas-hideous-laughter",
