@@ -106,22 +106,27 @@ const statusEffects = [
   {
     id: "concentrating",
     label: "EFFECT.StatusConcentrating",
-    icon: "modules/conditions5e/icons/concentrating.png"
+    icon: "modules/conditions5e/icons/concentrating.svg"
   },
   {
     id: "bane",
     label: "EFFECT.SpellBlessed",
-    icon: "modules/conditions5e/icons/spells/1/bane.png"
+    icon: "modules/conditions5e/icons/spells/1/bane.svg"
   },
   {
     id: "bless",
     label: "EFFECT.SpellBane",
-    icon: "modules/conditions5e/icons/spells/1/bless.png"
+    icon: "modules/conditions5e/icons/spells/1/bless.svg"
   },
   {
     id: "disguise-self",
     label: "EFFECT.SpellDisguiseSelf",
     icon: "modules/conditions5e/icons/spells/1/disguise-self.png"
+  },
+  {
+    id: "divine-favor",
+    label: "EFFECT.SpellDivineFavor",
+    icon: "modules/conditions5e/icons/spells/1/divine-favor.png"
   },
   {
     id: "entangle",
