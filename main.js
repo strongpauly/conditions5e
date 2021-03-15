@@ -121,7 +121,7 @@ const statusEffects = [
   {
     id: "disguise-self",
     label: "EFFECT.SpellDisguiseSelf",
-    icon: "modules/conditions5e/icons/spells/1/disguise-self.png"
+    icon: "modules/conditions5e/icons/spells/1/disguise-self.svg"
   },
   {
     id: "divine-favor",
