@@ -110,12 +110,12 @@ const statusEffects = [
   },
   {
     id: "bane",
-    label: "EFFECT.SpellBlessed",
+    label: "EFFECT.SpellBane",
     icon: "modules/conditions5e/icons/spells/1/bane.svg"
   },
   {
     id: "bless",
-    label: "EFFECT.SpellBane",
+    label: "EFFECT.SpellBlessed",
     icon: "modules/conditions5e/icons/spells/1/bless.svg"
   },
   {
