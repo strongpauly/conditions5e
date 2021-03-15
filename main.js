@@ -126,7 +126,7 @@ const statusEffects = [
   {
     id: "divine-favor",
     label: "EFFECT.SpellDivineFavor",
-    icon: "modules/conditions5e/icons/spells/1/divine-favor.png"
+    icon: "modules/conditions5e/icons/spells/1/divine-favor.svg"
   },
   {
     id: "entangle",
