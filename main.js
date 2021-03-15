@@ -136,7 +136,7 @@ const statusEffects = [
   {
     id: "faerie-fire",
     label: "EFFECT.SpellFaerieFire",
-    icon: "modules/conditions5e/icons/spells/1/faerie-fire.png"
+    icon: "modules/conditions5e/icons/spells/1/faerie-fire.svg"
   },
   {
     id: "hex",
