@@ -7,7 +7,7 @@ This module adds effects for several expanding spells colored by school of magic
 * <span style="background-color:#F6A623;width:1.5rem;display:inline-block">&nbsp;</span> Conjuration
 * <span style="background-color:#50E3C2;width:1.5rem;display:inline-block">&nbsp;</span> Divination
 * <span style="background-color:#BD34E0;width:1.5rem;display:inline-block">&nbsp;</span> Enchantment
-* <span style="background-color:#f00;width:1.5rem;display:inline-block">&nbsp;</span> Evocation
+* <span style="background-color:#F1961C;width:1.5rem;display:inline-block">&nbsp;</span> Evocation
 * <span style="background-color:#9036FE;width:1.5rem;display:inline-block">&nbsp;</span> Illusion
 * <span style="background-color:#000;width:1.5rem;display:inline-block">&nbsp;</span> Necromancy
 * <span style="background-color:#8B572B;width:1.5rem;display:inline-block">&nbsp;</span> Transmutation
